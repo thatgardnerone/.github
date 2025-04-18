@@ -1,2 +1,1 @@
-# .github
-Profile repo
+Public profile repository
